@@ -24,6 +24,6 @@ Stop clicking through menus or opening multiple terminals to set up your workspa
 Clone the repository and give execution permissions to the script:
 
 ```bash
-git clone [https://github.com/CertainlyNotSen/Bulker.git](https://github.com/YOUR_USERNAME/Bulker.git)
+git clone [https://github.com/CertainlyNotSen/Bulker.git](https://github.com/CertainlyNotSen/Bulker.git)
 cd Bulker
 chmod +x bulker.sh
