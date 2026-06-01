@@ -4,7 +4,7 @@
 
 Stop clicking through menus or opening multiple terminals to set up your workspace. With Bulker, you can launch your entire workflow with a single click.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-apache-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20Mint%20%7C%20Ubuntu-green.svg)
 
 ## Features
